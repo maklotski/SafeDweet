@@ -106,6 +106,6 @@ I never did get around to building that sous vide Arduino cooker I keep dreaming
 It remains a mental exercise, spawning ideas like this SafeDweet library.  
 As much as I mildly fear hackers, I have a much greater fear of mixing high voltage, water, and a house full of small kids.
 
-Enjoy,
-maklotski
+Enjoy,  
+maklotski  
 Sept. 2015
