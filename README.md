@@ -76,13 +76,13 @@ There are many critical holes in the code that need to be plugged - holes that c
 4. Currently only the Arduino half of the library is written.  
 It is still missing that cool javascript library that will allow web sites and phone apps to talk to IoT devices running SafeDweet.
 
-What next?
-Please download and play with this library.
-Help plug those gaping holes.
+What next?  
+Please download and play with this library.  
+Help plug those gaping holes.  
 Help make it a real, viable tool that will allow more makers to make connected devices that won't get hacked
-in a day.
-If you have suggestions to improve the API, please do so.
-And write that javascript library! 
+in a day.  
+If you have suggestions to improve the API, please do so.  
+And write that javascript library!   
 Personally, I am clueless when it comes to web languages, so it will take me ages to port it myself.
 
 One last thing:   
